@@ -1,9 +1,51 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+   "posts":[
+      {
+         "id":1,
+         "title":"json-server",
+         "author":"typicode"
+      }
+   ],
+   "comments":[
+      {
+         "id":1,
+         "body":"some comment",
+         "postId":1
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   },
+   "resources":[
+      {
+         "docName":"Reports.docx",
+         "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/word.png",
+         "size":"1"
+      },
+      {
+         "docName":"Annual file.xlsx",
+         "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/excel.png",
+         "size":"1.2"
+      },
+      {
+         "docName":"Project.ppt",
+         "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/ppt.png",
+         "size":"1.7"
+      },
+      {
+         "docName":"Students-2.xlsx",
+         "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/excel.png",
+         "size":"2"
+      },
+      {
+         "docName":"AI Data.pdf",
+         "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/pdf.png",
+         "size":"1.8"
+      },
+      {
+         "docName":"Data.docx",
+         "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/word.png",
+         "size":"1"
+      }
+   ]
 }
