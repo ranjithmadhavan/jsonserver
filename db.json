@@ -102,5 +102,46 @@
          "subject":"Submission of reserach papers",
          "body":"USC Viterbi - 'Spotlight on Research '(TH.."
       }
-   ]
+   ],
+   "tweets":{
+      "name":"Felicia",
+      "tweets":[
+         {
+            "id":1,
+            "from":"University of Cambridge",
+            "hashTag":"@Postdoc",
+            "time":"1hr",
+            "subject":"Are you new to the university",
+            "body":"You will hear from University that supports postdocs.",
+            "comments":12,
+            "retweets":131,
+            "likes":19,
+            "shares":15
+         },
+         {
+            "id":2,
+            "from":"University of Cambridge",
+            "hashTag":"@Postdoc",
+            "time":"2hr",
+            "subject":"Are you interested in biotech job market",
+            "body":"Hear about the industry opportunities and get application tips at this 'Ask the recruiter' event.",
+            "comments":132,
+            "retweets":121,
+            "likes":192,
+            "shares":23
+         },
+         {
+            "id":3,
+            "from":"University of Cambridge",
+            "hashTag":"@Postdoc",
+            "time":"5hr",
+            "subject":"Postdoc appreciation week starts 20th September",
+            "body":"We are encouraging you to join us that ween in...",
+            "comments":2,
+            "retweets":31,
+            "likes":13,
+            "shares":5
+         }
+      ]
+   }
 }
