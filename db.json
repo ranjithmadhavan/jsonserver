@@ -52,5 +52,43 @@
          "startTime":"11:00 AM",
          "endTime":"12:30 PM"
       }
+   ],
+   "mail":[
+      {
+         "receivedDate":"1 Nov 2021",
+         "receivedTime":"3:00 PM",
+         "firstName":"J",
+         "lastName":"A",
+         "from":"Julia Addeo",
+         "subject":"Circular Attached",
+         "body":"USC Viterbi - 'Spotlight on Research '(TH.."
+      },
+      {
+         "receivedDate":"20 Sep 2021",
+         "receivedTime":"3:00 PM",
+         "firstName":"S",
+         "lastName":"J",
+         "from":"Sia Johnson",
+         "subject":"Faculty Plus",
+         "body":"Request for course proposal"
+      },
+      {
+         "receivedDate":"30 Sep 2021",
+         "receivedTime":"3:30 PM",
+         "firstName":"H",
+         "lastName":"D",
+         "from":"HOD Department of Electrical",
+         "subject":"Faculty Plus",
+         "subject":"Submit your records before due date..."
+      },
+      {
+         "receivedDate":"28 Sep 2021",
+         "receivedTime":"6:00 PM",
+         "firstName":"S",
+         "lastName":"J",
+         "from":"Sia Johnson",
+         "subject":"Submission of reserach papers",
+         "body":"USC Viterbi - 'Spotlight on Research '(TH.."
+      }
    ]
 }
