@@ -1,31 +1,37 @@
 {
    "resources":[
       {
+         "id":1,
          "docName":"Reports.docx",
          "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/word.png",
          "size":"1"
       },
       {
+         "id":2,
          "docName":"Annual file.xlsx",
          "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/excel.png",
          "size":"1.2"
       },
       {
+         "id":3,
          "docName":"Project.ppt",
          "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/ppt.png",
          "size":"1.7"
       },
       {
+         "id":4,
          "docName":"Students-2.xlsx",
          "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/excel.png",
          "size":"2"
       },
       {
+         "id":5,
          "docName":"AI Data.pdf",
          "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/pdf.png",
          "size":"1.8"
       },
       {
+         "id":6,
          "docName":"Data.docx",
          "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/word.png",
          "size":"1"
@@ -33,6 +39,7 @@
    ],
    "courses":[
       {
+         "id":1,
          "dueDate":"26 Mar",
          "courseName":"Accounting Structure - Part 2",
          "instructor":"Julia Addeo",
@@ -43,6 +50,7 @@
          "endTime":"10:30 AM"
       },
       {
+         "id":2,
          "dueDate":"26 Feb",
          "courseName":"Economics",
          "instructor":"Nancy Dew",
@@ -53,8 +61,9 @@
          "endTime":"12:30 PM"
       }
    ],
-   "mail":[
+   "inbox":[
       {
+         "id":1,
          "receivedDate":"1 Nov 2021",
          "receivedTime":"3:00 PM",
          "firstName":"J",
@@ -64,6 +73,7 @@
          "body":"USC Viterbi - 'Spotlight on Research '(TH.."
       },
       {
+         "id":2,
          "receivedDate":"20 Sep 2021",
          "receivedTime":"3:00 PM",
          "firstName":"S",
@@ -73,6 +83,7 @@
          "body":"Request for course proposal"
       },
       {
+         "id":3,
          "receivedDate":"30 Sep 2021",
          "receivedTime":"3:30 PM",
          "firstName":"H",
@@ -82,6 +93,7 @@
          "body":"Submit your records before due date..."
       },
       {
+         "id":4,
          "receivedDate":"28 Sep 2021",
          "receivedTime":"6:00 PM",
          "firstName":"S",
