@@ -47,5 +47,27 @@
          "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/word.png",
          "size":"1"
       }
+   ],
+   "courses":[
+      {
+         "dueDate":"26 Mar",
+         "courseName":"Accounting Structure - Part 2",
+         "instructor":"Julia Addeo",
+         "room":"Scholars hall, Room 309",
+         "waitlist":"0",
+         "confirmNumber":"6",
+         "startTime":"10:00 AM",
+         "endTime":"10:30 AM"
+      },
+      {
+         "dueDate":"26 Feb",
+         "courseName":"Economics",
+         "instructor":"Nancy Dew",
+         "room":"Teachers hall, Room 310",
+         "waitlist":"1",
+         "confirmNumber":"3",
+         "startTime":"11:00 AM",
+         "endTime":"12:30 PM"
+      }
    ]
 }
