@@ -1,147 +1,189 @@
 {
-   "resources":[
+  "resources": [
+    {
+      "id": 1,
+      "docName": "Reports.docx",
+      "iconUrl": "https://www.dropbox.com/s/paz8hgaala9vrai/word.png",
+      "size": "1"
+    },
+    {
+      "id": 2,
+      "docName": "Annual file.xlsx",
+      "iconUrl": "https://www.dropbox.com/s/paz8hgaala9vrai/excel.png",
+      "size": "1.2"
+    },
+    {
+      "id": 3,
+      "docName": "Project.ppt",
+      "iconUrl": "https://www.dropbox.com/s/paz8hgaala9vrai/ppt.png",
+      "size": "1.7"
+    },
+    {
+      "id": 4,
+      "docName": "Students-2.xlsx",
+      "iconUrl": "https://www.dropbox.com/s/paz8hgaala9vrai/excel.png",
+      "size": "2"
+    },
+    {
+      "id": 5,
+      "docName": "AI Data.pdf",
+      "iconUrl": "https://www.dropbox.com/s/paz8hgaala9vrai/pdf.png",
+      "size": "1.8"
+    },
+    {
+      "id": 6,
+      "docName": "Data.docx",
+      "iconUrl": "https://www.dropbox.com/s/paz8hgaala9vrai/word.png",
+      "size": "1"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "dueDate": "26 Mar",
+      "courseName": "Accounting Structure - Part 2",
+      "instructor": "Julia Addeo",
+      "room": "Scholars hall, Room 309",
+      "waitlist": "0",
+      "confirmNumber": "6",
+      "startTime": "10:00 AM",
+      "endTime": "10:30 AM"
+    },
+    {
+      "id": 2,
+      "dueDate": "26 Feb",
+      "courseName": "Economics",
+      "instructor": "Nancy Dew",
+      "room": "Teachers hall, Room 310",
+      "waitlist": "1",
+      "confirmNumber": "3",
+      "startTime": "11:00 AM",
+      "endTime": "12:30 PM"
+    }
+  ],
+  "inbox": [
+    {
+      "id": 1,
+      "receivedDate": "1 Nov 2021",
+      "receivedTime": "3:00 PM",
+      "firstName": "J",
+      "lastName": "A",
+      "from": "Julia Addeo",
+      "subject": "Circular Attached",
+      "body": "USC Viterbi - 'Spotlight on Research '(TH.."
+    },
+    {
+      "id": 2,
+      "receivedDate": "20 Sep 2021",
+      "receivedTime": "3:00 PM",
+      "firstName": "S",
+      "lastName": "J",
+      "from": "Sia Johnson",
+      "subject": "Faculty Plus",
+      "body": "Request for course proposal"
+    },
+    {
+      "id": 3,
+      "receivedDate": "30 Sep 2021",
+      "receivedTime": "3:30 PM",
+      "firstName": "H",
+      "lastName": "D",
+      "from": "HOD Department of Electrical",
+      "subject": "Faculty Plus",
+      "body": "Submit your records before due date..."
+    },
+    {
+      "id": 4,
+      "receivedDate": "28 Sep 2021",
+      "receivedTime": "6:00 PM",
+      "firstName": "S",
+      "lastName": "J",
+      "from": "Sia Johnson",
+      "subject": "Submission of reserach papers",
+      "body": "USC Viterbi - 'Spotlight on Research '(TH.."
+    }
+  ],
+  "tweets": {
+    "name": "Felicia",
+    "tweets": [
       {
-         "id":1,
-         "docName":"Reports.docx",
-         "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/word.png",
-         "size":"1"
+        "id": 1,
+        "from": "University of Cambridge",
+        "hashTag": "@Postdoc",
+        "time": "1hr",
+        "subject": "Are you new to the university",
+        "body": "You will hear from University that supports postdocs.",
+        "comments": 12,
+        "retweets": 131,
+        "likes": 19,
+        "shares": 15
       },
       {
-         "id":2,
-         "docName":"Annual file.xlsx",
-         "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/excel.png",
-         "size":"1.2"
+        "id": 2,
+        "from": "University of Cambridge",
+        "hashTag": "@Postdoc",
+        "time": "2hr",
+        "subject": "Are you interested in biotech job market",
+        "body": "Hear about the industry opportunities and get application tips at this 'Ask the recruiter' event.",
+        "comments": 132,
+        "retweets": 121,
+        "likes": 192,
+        "shares": 23
       },
       {
-         "id":3,
-         "docName":"Project.ppt",
-         "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/ppt.png",
-         "size":"1.7"
-      },
-      {
-         "id":4,
-         "docName":"Students-2.xlsx",
-         "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/excel.png",
-         "size":"2"
-      },
-      {
-         "id":5,
-         "docName":"AI Data.pdf",
-         "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/pdf.png",
-         "size":"1.8"
-      },
-      {
-         "id":6,
-         "docName":"Data.docx",
-         "iconUrl":"https://www.dropbox.com/s/paz8hgaala9vrai/word.png",
-         "size":"1"
+        "id": 3,
+        "from": "University of Cambridge",
+        "hashTag": "@Postdoc",
+        "time": "5hr",
+        "subject": "Postdoc appreciation week starts 20th September",
+        "body": "We are encouraging you to join us that ween in...",
+        "comments": 2,
+        "retweets": 31,
+        "likes": 13,
+        "shares": 5
       }
-   ],
-   "courses":[
-      {
-         "id":1,
-         "dueDate":"26 Mar",
-         "courseName":"Accounting Structure - Part 2",
-         "instructor":"Julia Addeo",
-         "room":"Scholars hall, Room 309",
-         "waitlist":"0",
-         "confirmNumber":"6",
-         "startTime":"10:00 AM",
-         "endTime":"10:30 AM"
-      },
-      {
-         "id":2,
-         "dueDate":"26 Feb",
-         "courseName":"Economics",
-         "instructor":"Nancy Dew",
-         "room":"Teachers hall, Room 310",
-         "waitlist":"1",
-         "confirmNumber":"3",
-         "startTime":"11:00 AM",
-         "endTime":"12:30 PM"
-      }
-   ],
-   "inbox":[
-      {
-         "id":1,
-         "receivedDate":"1 Nov 2021",
-         "receivedTime":"3:00 PM",
-         "firstName":"J",
-         "lastName":"A",
-         "from":"Julia Addeo",
-         "subject":"Circular Attached",
-         "body":"USC Viterbi - 'Spotlight on Research '(TH.."
-      },
-      {
-         "id":2,
-         "receivedDate":"20 Sep 2021",
-         "receivedTime":"3:00 PM",
-         "firstName":"S",
-         "lastName":"J",
-         "from":"Sia Johnson",
-         "subject":"Faculty Plus",
-         "body":"Request for course proposal"
-      },
-      {
-         "id":3,
-         "receivedDate":"30 Sep 2021",
-         "receivedTime":"3:30 PM",
-         "firstName":"H",
-         "lastName":"D",
-         "from":"HOD Department of Electrical",
-         "subject":"Faculty Plus",
-         "body":"Submit your records before due date..."
-      },
-      {
-         "id":4,
-         "receivedDate":"28 Sep 2021",
-         "receivedTime":"6:00 PM",
-         "firstName":"S",
-         "lastName":"J",
-         "from":"Sia Johnson",
-         "subject":"Submission of reserach papers",
-         "body":"USC Viterbi - 'Spotlight on Research '(TH.."
-      }
-   ],
-   "tweets":{
-      "name":"Felicia",
-      "tweets":[
-         {
-            "id":1,
-            "from":"University of Cambridge",
-            "hashTag":"@Postdoc",
-            "time":"1hr",
-            "subject":"Are you new to the university",
-            "body":"You will hear from University that supports postdocs.",
-            "comments":12,
-            "retweets":131,
-            "likes":19,
-            "shares":15
-         },
-         {
-            "id":2,
-            "from":"University of Cambridge",
-            "hashTag":"@Postdoc",
-            "time":"2hr",
-            "subject":"Are you interested in biotech job market",
-            "body":"Hear about the industry opportunities and get application tips at this 'Ask the recruiter' event.",
-            "comments":132,
-            "retweets":121,
-            "likes":192,
-            "shares":23
-         },
-         {
-            "id":3,
-            "from":"University of Cambridge",
-            "hashTag":"@Postdoc",
-            "time":"5hr",
-            "subject":"Postdoc appreciation week starts 20th September",
-            "body":"We are encouraging you to join us that ween in...",
-            "comments":2,
-            "retweets":31,
-            "likes":13,
-            "shares":5
-         }
-      ]
-   }
+    ]
+  },
+  "announcements": [
+    {
+      "id": 1,
+      "date": "Today",
+      "time": "",
+      "venue": "",
+      "title": "Second semester results are out",
+      "description": "Second semester results are out. Please ..."
+    },
+    {
+      "id": 2,
+      "date": "Today",
+      "time": "9:30 PM",
+      "venue": "Hall 03, First floor",
+      "title": "Parents-teachers meeting on 15 Sept, 2021",
+      "description": "It's compulsory to attend this meeting along with ..."
+    },
+    {
+      "id": 3,
+      "date": "Yesterday",
+      "time": "",
+      "venue": "",
+      "title": "Thirs semester starts from 01 Oct, 2021",
+      "description": "Third semester results are out. Please contact ..."
+    },
+    {
+      "id": 4,
+      "date": "02 Sept, 2022",
+      "time": "09:30 PM",
+      "venue": "Hall 06, Fifth floor",
+      "title": "Final semester students meeting is postponed",
+      "description": "All students are required to attend the meeting without ..."
+    },
+    {
+      "id": 5,
+      "date": "01 Aug 2021",
+      "time": "",
+      "venue": "",
+      "title": "Students meeting",
+      "description": "Students are meeting on ..."
+    }
+  ]
 }
