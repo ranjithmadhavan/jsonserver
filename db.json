@@ -151,39 +151,39 @@
       "time": "",
       "venue": "",
       "title": "Second semester results are out",
-      "description": "Second semester results are out. Please ..."
+      "description": "Be the first one to see second semester results!"
     },
     {
       "id": 2,
       "date": "Today",
       "time": "9:30 PM",
       "venue": "Hall 03, First floor",
-      "title": "Parents-teachers meeting on 15 Sept, 2021",
-      "description": "It's compulsory to attend this meeting along with ..."
+      "title": "Let's catch-up to look back at the semester gone by",
+      "description": "Let's all students and faculty gather together... "
     },
     {
       "id": 3,
       "date": "Yesterday",
       "time": "",
       "venue": "",
-      "title": "Thirs semester starts from 01 Oct, 2021",
-      "description": "Third semester results are out. Please contact ..."
+      "title": "Third semester starts from 05 Jan, 2022",
+      "description": "Moving towards third semester…"
     },
     {
       "id": 4,
       "date": "02 Sept, 2022",
       "time": "09:30 PM",
       "venue": "Hall 06, Fifth floor",
-      "title": "Final semester students meeting is postponed",
-      "description": "All students are required to attend the meeting without ..."
+      "title": "Meeting for final semester students postponed",
+      "description": "Final semester students meeting postponed to…"
     },
     {
       "id": 5,
       "date": "01 Aug 2021",
       "time": "",
       "venue": "",
-      "title": "Students meeting",
-      "description": "Students are meeting on ..."
+      "title": "Introductory Event tomorrow!",
+      "description": "For all the new students, introductory…"
     }
   ],
   "dining": {
