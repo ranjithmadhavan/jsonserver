@@ -1,42 +1,4 @@
 {
-  "resources": [
-    {
-      "id": 1,
-      "docName": "Reports.docx",
-      "iconUrl": "https://www.dropbox.com/s/paz8hgaala9vrai/word.png",
-      "size": "1"
-    },
-    {
-      "id": 2,
-      "docName": "Annual file.xlsx",
-      "iconUrl": "https://www.dropbox.com/s/mguq07fwb5d0eoj/excel.jpeg",
-      "size": "1.2"
-    },
-    {
-      "id": 3,
-      "docName": "Project.ppt",
-      "iconUrl": "https://www.dropbox.com/s/pjlrg4blb3awc74/ppt.jpeg",
-      "size": "1.7"
-    },
-    {
-      "id": 4,
-      "docName": "Students-2.xlsx",
-      "iconUrl": "https://www.dropbox.com/s/mguq07fwb5d0eoj/excel.jpeg",
-      "size": "2"
-    },
-    {
-      "id": 5,
-      "docName": "AI Data.pdf",
-      "iconUrl": "https://www.dropbox.com/s/r3fbrt5yelinne5/pdf.jpeg",
-      "size": "1.8"
-    },
-    {
-      "id": 6,
-      "docName": "Data.docx",
-      "iconUrl": "https://www.dropbox.com/s/paz8hgaala9vrai/word.png",
-      "size": "1"
-    }
-  ],
   "courses": [
     {
       "id": 1,
