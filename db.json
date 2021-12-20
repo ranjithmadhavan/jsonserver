@@ -9,25 +9,25 @@
     {
       "id": 2,
       "docName": "Annual file.xlsx",
-      "iconUrl": "https://www.dropbox.com/s/paz8hgaala9vrai/excel.png",
+      "iconUrl": "https://www.dropbox.com/s/mguq07fwb5d0eoj/excel.jpeg",
       "size": "1.2"
     },
     {
       "id": 3,
       "docName": "Project.ppt",
-      "iconUrl": "https://www.dropbox.com/s/paz8hgaala9vrai/ppt.png",
+      "iconUrl": "https://www.dropbox.com/s/pjlrg4blb3awc74/ppt.jpeg",
       "size": "1.7"
     },
     {
       "id": 4,
       "docName": "Students-2.xlsx",
-      "iconUrl": "https://www.dropbox.com/s/paz8hgaala9vrai/excel.png",
+      "iconUrl": "https://www.dropbox.com/s/mguq07fwb5d0eoj/excel.jpeg",
       "size": "2"
     },
     {
       "id": 5,
       "docName": "AI Data.pdf",
-      "iconUrl": "https://www.dropbox.com/s/paz8hgaala9vrai/pdf.png",
+      "iconUrl": "https://www.dropbox.com/s/r3fbrt5yelinne5/pdf.jpeg",
       "size": "1.8"
     },
     {
@@ -74,16 +74,6 @@
     },
     {
       "id": 2,
-      "receivedDate": "20 Sep 2021",
-      "receivedTime": "3:00 PM",
-      "firstName": "S",
-      "lastName": "J",
-      "from": "Sia Johnson",
-      "subject": "Faculty Plus",
-      "body": "Request for course proposal"
-    },
-    {
-      "id": 3,
       "receivedDate": "30 Sep 2021",
       "receivedTime": "3:30 PM",
       "firstName": "H",
@@ -93,7 +83,7 @@
       "body": "Submit your records before due date..."
     },
     {
-      "id": 4,
+      "id": 3,
       "receivedDate": "28 Sep 2021",
       "receivedTime": "6:00 PM",
       "firstName": "S",
@@ -101,6 +91,16 @@
       "from": "Sia Johnson",
       "subject": "Submission of reserach papers",
       "body": "USC Viterbi - 'Spotlight on Research '(TH.."
+    },
+    {
+      "id": 4,
+      "receivedDate": "20 Sep 2021",
+      "receivedTime": "3:00 PM",
+      "firstName": "S",
+      "lastName": "J",
+      "from": "Sia Johnson",
+      "subject": "Faculty Plus",
+      "body": "Request for course proposal"
     }
   ],
   "tweets": {
@@ -108,11 +108,11 @@
     "tweets": [
       {
         "id": 1,
-        "from": "University of Cambridge",
+        "from": "Involv",
         "hashTag": "@Postdoc",
         "time": "1hr",
-        "subject": "Are you new to the university",
-        "body": "You will hear from University that supports postdocs.",
+        "subject": "Working with Steve a creative masterhead!",
+        "body": "Loved being part of the chosen few for the creative group managed by Steve... ",
         "comments": 12,
         "retweets": 131,
         "likes": 19,
@@ -120,11 +120,11 @@
       },
       {
         "id": 2,
-        "from": "University of Cambridge",
+        "from": "Involv",
         "hashTag": "@Postdoc",
         "time": "2hr",
-        "subject": "Are you interested in biotech job market",
-        "body": "Hear about the industry opportunities and get application tips at this 'Ask the recruiter' event.",
+        "subject": "Involv student earns scholarship!",
+        "body": "Tom Mathew, a business studies senior bags the all-rounder scholarship for consistently scoring the highest in this batch…",
         "comments": 132,
         "retweets": 121,
         "likes": 192,
@@ -132,11 +132,11 @@
       },
       {
         "id": 3,
-        "from": "University of Cambridge",
+        "from": "Involv",
         "hashTag": "@Postdoc",
         "time": "5hr",
-        "subject": "Postdoc appreciation week starts 20th September",
-        "body": "We are encouraging you to join us that ween in...",
+        "subject": "Take on Omicron situation right now!",
+        "body": "The Omicron variant, first detected in the U.S. on December 2, has reached 19 states and 50 countries https://involv.college/omicronnews.com…",
         "comments": 2,
         "retweets": 31,
         "likes": 13,
@@ -185,5 +185,37 @@
       "title": "Students meeting",
       "description": "Students are meeting on ..."
     }
-  ]
+  ],
+  "dining": {
+    "date": "17 Sept, 2022",
+    "meals": [
+      {
+        "id": 1,
+        "recurring": "true",
+        "time": "07:00 AM - 11:00 AM",
+        "mealtype": "Breakfast",
+        "subscribed": "true",
+        "title": "Gourmet Noodle",
+        "description": "Homestyle comfort food. Meatballs and gravy, tater-tot hotdish, and potatos"
+      },
+      {
+        "id": 2,
+        "recurring": "true",
+        "time": "08:00 PM - 11:00 PM",
+        "mealtype": "Dinner",
+        "subscribed": "true",
+        "title": "Global Cuisine",
+        "description": "Fire up the wok! International food made to order."
+      },
+      {
+        "id": 3,
+        "recurring": "false",
+        "time": "12:00 PM - 03:00 PM",
+        "mealtype": "Lunch",
+        "subscribed": "false",
+        "title": "Allergen Free",
+        "description": "Serving cuisine free of the eight common allergens plus gluten"
+      }
+    ]
+  }
 }
